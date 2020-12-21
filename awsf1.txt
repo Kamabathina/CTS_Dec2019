@@ -1,4 +1,3 @@
-sfsadf
-123
-1.0, 1.1
-True False
+awsf1
+awsf2
+awsf3
